@@ -1,0 +1,28 @@
+body {
+    margin: 0%;
+}
+
+.navbar-brand {
+    font-family: 'Poppins', sans-serif;
+    color: #4A4A4A;
+}
+
+.nav-items {
+    font-family: 'Poppins', sans-serif;
+}
+
+.caption {
+    font-family: 'Poppins', sans-serif;
+}
+
+.price {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-text {
+    font-family: 'Poppins', sans-serif;
+}
+
+.accordion-item {
+    font-family: 'Poppins', sans-serif;
+}
